@@ -1,0 +1,11 @@
+Feature,Importance
+HighBP,0.6835096
+GenHlth,0.13719094
+HighChol,0.04809504
+Age,0.031805042
+HeartDiseaseorAttack,0.027030893
+BMI,0.02697572
+DiffWalk,0.023654934
+Stroke,0.009612818
+Income,0.0076841344
+PhysActivity,0.004440937
